@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Techs
-This project was been create with:
+This project was been created with:
 NextJs -> used to build application.
 Next Auth -> used to implement Google Authentication.
 react-player-> to play vídeos
