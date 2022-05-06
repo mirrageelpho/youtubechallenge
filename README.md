@@ -2,11 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Techs
 This project was been created with:
-NextJs -> used to build application.
-Next Auth -> used to implement Google Authentication.
-react-player-> to play vídeos
-styled-components -> to style application.
-context API -> to controll state.
+
+* NextJs -> used to build application. 
+* Next Auth -> used to implement Google Authentication.
+* react-player-> to play vídeos
+* styled-components -> to style application.
+* context API -> to controll state.
 
 ## Features
 What we can do on aplication?
